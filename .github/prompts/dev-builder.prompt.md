@@ -1,0 +1,2 @@
+create a new component in the `src/components` directory. The component should be a functional component that uses React hooks. 
+then register the component in the `src/builder-registry.ts` file. Ensure to import the new component at the top of the file and add it to the registry.
